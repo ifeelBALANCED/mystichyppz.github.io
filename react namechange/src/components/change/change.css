@@ -1,0 +1,42 @@
+.change_container {
+    position: relative;
+    top: 150px;
+    left: 39%;
+}
+.change__title {
+    font-size: 30px;
+    font-weight: 300;
+}
+.btn_danger {
+    outline: none;
+    border: none;
+    border-radius: 6px;
+    margin: 10px;
+    width: 100px;
+    height: 40px;
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.input_change{
+    outline: none;
+    height: 40px;
+    width: 75px;
+    font-size: 16px;
+    border-radius: 6px;
+    padding: 0 8px;
+    background-color: #fff;
+    color: #181919;
+    border: 2px solid rgb(167, 165, 166);
+}
+
+.input_change:hover, .input_change:focus{
+    border: none;
+}
+.change__description {
+    font-size: 17px;
+    font-weight: 300;
+    opacity: 0.7;
+    padding-top: 30px;
+}
+
