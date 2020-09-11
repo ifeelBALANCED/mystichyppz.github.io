@@ -1,0 +1,16 @@
+.to-do-list-item {
+    font-size: 1.25rem;
+}
+
+.to-do-list-item button {
+    width: 35px;
+}
+
+.to-do-list-item__text {
+    cursor: pointer;
+    user-select: none;
+}
+
+.to-do-list-item__text strong {
+    color: steelblue;
+}
